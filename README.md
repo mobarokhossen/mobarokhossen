@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/mobarokhossen)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mobarokhossen.com-orange?style=for-the-badge)](https://mobarokhossen.com)
 [![Email](https://img.shields.io/badge/Email-mobarok_hossen@outlook.com-green?style=for-the-badge)](mailto:mobarok_hossen@outlook.com)
+[![GitLab](https://img.shields.io/badge/GitLab-mobarokhossen-%23fc6d26?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/mobarokhossen)
 
 ---
 
